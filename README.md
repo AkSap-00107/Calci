@@ -5,4 +5,4 @@ technology stack implemented is html, css, and javascript.
 ``` javascript
 console.log("Arithmetic Operation Featuring Calci");
 ```
-![alt text](image.png)
+![alt text](image-1.png)
